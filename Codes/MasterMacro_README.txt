@@ -1,5 +1,5 @@
 ==============================
-ND2 Drift & Dual-Channel Tracking Pipeline
+MasterMacro Pipeline
 ==============================
 
 This pipeline performs preprocessing and tracking for time-lapse multichannel ND2 microscopy data using ImageJ and TrackMate via pyimagej.
